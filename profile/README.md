@@ -16,5 +16,3 @@
     </picture>
   </a>
 </p>
-
-# Regions of Indonesia
